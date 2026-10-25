@@ -1,9 +1,9 @@
 {
   "app": "PLOTNEST",
-  "versionName": "1.3.242",
-  "versionCode": 242,
-  "tag": "v1.3.242",
+  "versionName": "1.3.243",
+  "versionCode": 243,
+  "tag": "v1.3.243",
   "apkUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest/download/PLOTNEST.apk",
   "releaseUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest",
-  "notes": "- Fix script boundary in unified theme dropdowns"
+  "notes": "- Redesign settings into focused category pages"
 }

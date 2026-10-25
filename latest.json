@@ -1,9 +1,9 @@
 {
   "app": "PLOTNEST",
-  "versionName": "1.3.252",
-  "versionCode": 252,
-  "tag": "v1.3.252",
+  "versionName": "1.3.253",
+  "versionCode": 253,
+  "tag": "v1.3.253",
   "apkUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest/download/PLOTNEST.apk",
   "releaseUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest",
-  "notes": "- Add AI Writer workspace and AI bottom navigation tab"
+  "notes": "- Show concise Russian user-facing update notes"
 }

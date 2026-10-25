@@ -1,8 +1,8 @@
 {
   "app": "PLOTNEST",
-  "versionName": "1.3.176",
-  "versionCode": 176,
-  "tag": "v1.3.176",
+  "versionName": "1.3.177",
+  "versionCode": 177,
+  "tag": "v1.3.177",
   "apkUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest/download/PLOTNEST.apk",
   "releaseUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest",
   "notes": "Автоматическое обновление PLOTNEST."

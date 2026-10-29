@@ -1,8 +1,8 @@
 {
   "app": "PLOTNEST",
-  "versionName": "1.3.275",
-  "versionCode": 275,
-  "tag": "v1.3.275",
+  "versionName": "1.3.277",
+  "versionCode": 277,
+  "tag": "v1.3.277",
   "apkUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest/download/PLOTNEST.apk",
   "releaseUrl": "https://github.com/raeffsky/plotnest-updates/releases/latest",
   "notes": "Улучшена работа с проектами и разделение их данных."
